@@ -1,7 +1,9 @@
 # 💫 Hi 👋, I'm Anita Pandey
 A passionate Computer Science Engineering student | Aspiring Software Developer | Web Developer
 
-Email Me 👉 ✉️ **anitaanu1904@gmal.com** 📌 Open for collaboration, internships, and learning opportunities 😊
+ 
+ 📌 Open for collaboration, internships, and learning opportunities 😊
+
 🔭 I’m currently working on:
 Web-based projects and academic projects like mockerview (ai-interview)
 
@@ -15,7 +17,7 @@ Web development projects, frontend applications, and open-source contributions
 Improving problem-solving skills, advanced DSA, and real-world project experience
 
 💬 Ask me about:
-HTML, CSS, JavaScript, React basics, C/C++, Java, and project development
+HTML, CSS, JavaScript, React basics, C/C++  and project development
 
 📫 How to reach me:
 📧 anitaanu1904@gmail.com
