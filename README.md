@@ -8,13 +8,10 @@ A passionate Computer Science Engineering student | Aspiring Software Developer 
 Web-based projects and academic projects like mockerview (ai-interview)
 
 🌱 I’m currently learning:
-Data Structures & Algorithms, Full Stack Development (React, Node.js), and Compiler Design
+Data Structures & Algorithms, Full Stack Development (React, Node.js), Power Bi,ML
 
 👯 I’m looking to collaborate on:
 Web development projects, frontend applications, and open-source contributions
-
-🤔 I’m looking for help with:
-Improving problem-solving skills, advanced DSA, and real-world project experience
 
 💬 Ask me about:
 HTML, CSS, JavaScript, React basics, C/C++  and project development
@@ -22,8 +19,10 @@ HTML, CSS, JavaScript, React basics, C/C++  and project development
 📫 How to reach me:
 📧 anitaanu1904@gmail.com
 
-😄 Pronouns:
-She / Her
+➡Know about my experience
+https://www.linkedin.com/in/anita-pandey
+
+
 
 ⚡ Fun fact:
 I love learning new technologies and turning ideas into real projects 💻✨
